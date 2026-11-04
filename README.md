@@ -1,4 +1,9 @@
- 
+
+  <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=CARLOS%20WHITE&fontSize=68&fontColor=FFFFFF&fontAlignY=42&stroke=60A5FA&strokeWidth=1&animation=fadeIn&color=0:020617,30:0B1120,65:172554,100:312E81&desc=BUILD%20%2F%2F%20CREATE%20%2F%2F%20EXPLORE&descSize=16&descColor=93C5FD&descAlignY=65" width="100%" />
+
+</div> 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=CARLOS%20WHITE&fontSize=66&color=0:0f172a,50:2563eb,100:7c3aed&stroke=64748b&fontColor=ffffff&animation=fadeIn&desc=BUILD%20%20%2F%2F%20CREATE%20%20%2F%2F%20EXPLORE&descSize=14&descAlignY=72" width="100%" />
