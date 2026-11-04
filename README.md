@@ -67,13 +67,13 @@ A DOTA2 community 5v5 match management platform, focused on team balancing and p
 ### GitHub
 
 <div align="center">
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=LiBaiQiYu&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=8B9BB4&icon_color=8B9BB4&text_color=999999"
-  />
 
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBaiQiYu&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=8B9BB4&text_color=999999"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiBaiQiYu&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiBaiQiYu&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiBaiQiYu&theme=github_dark" width="49%" />
+
 </div>
 
 ---
