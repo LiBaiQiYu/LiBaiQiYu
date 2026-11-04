@@ -1,19 +1,22 @@
  <div align="center">
 
-<!-- ═══════════════ VOID HEADER ═══════════════ -->
+<!-- GLITCH WORLD / HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=280&section=header&text=CARLOS%20WHITE&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=VOID%20%2F%2F%20PIXEL%20%2F%2F%20REALITY&descSize=17&descColor=67E8F9&descAlignY=62&color=0:020617,35:0B1026,70:172554,100:312E81&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=CARLOS%20WHITE&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=R%20E%20A%20L%20I%20T%20Y%20%20%2F%2F%20C%20O%20R%20R%20U%20P%20T%20E%20D&descSize=13&descColor=FF4D6D&descAlignY=65&color=0:030308,25:101020,55:24102F,80:101A35,100:030308&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE+%2F%2F+WELCOME+TO+THE+VOID;REALITY+IS+JUST+ANOTHER+INTERFACE;PIXELS+ARE+THE+ATOMS+OF+MY+UNIVERSE;GG+WP+%2F%2F+KEEP+BUILDING" />
-
-<br/>
-
-`[ PLAYER : LiBaiQiYu ]` &nbsp; ` [ CLASS : DEVELOPER ]` &nbsp; `[ STATUS : ONLINE ]`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=500&color=FF3155&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+FAILURE+%5D+REALITY+IS+CORRUPTED;%3E+INITIALIZING+VOID+PROTOCOL...;%3E+PIXEL+DIMENSION+CONNECTED;%3E+RADIANT+VS+DIRE+%2F%2F+ENDLESS+WAR;%3E+WELCOME+TO+THE+GLITCH+WORLD_" />
 
 <br/>
 
-<a href="https://github.com/LiBaiQiYu"><img src="https://img.shields.io/badge/GITHUB-LiBaiQiYu-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" /></a>
-<a href="https://pixel-blog-beta.vercel.app"><img src="https://img.shields.io/badge/PIXEL%20BLOG-ENTER%20WORLD-312E81?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/PLAYER-LiBaiQiYu-09090F?style=for-the-badge&labelColor=FF1744" />
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-09090F?style=for-the-badge&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-09090F?style=for-the-badge&labelColor=7C3AED" />
+
+<br/><br/>
+
+`01000111 01001100 01001001 01010100 01000011 01001000`
+
+**WELCOME TO THE OTHER SIDE OF REALITY.**
 
 </div>
 
@@ -21,55 +24,62 @@
 
 <div align="center">
 
-### ░▒▓ WELCOME TO MY DIGITAL UNIVERSE ▓▒░
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF1744,50:7C3AED,100:00E5FF" width="100%" />
 
-`REALITY.EXE` &nbsp; `PIXEL.EXE` &nbsp; `DIRE.EXE` &nbsp; `RADIANT.EXE`
-
-</div>
-
-## `01` — PLAYER PROFILE
-
-<div align="center">
-
-| ATTRIBUTE | VALUE |
-|:---|:---|
-| **PLAYER** | CARLOS WHITE |
-| **HANDLE** | LiBaiQiYu |
-| **CLASS** | Full-Stack Developer |
-| **MAIN INTEREST** | Creative Engineering |
-| **CURRENT QUEST** | PIXEL BLOG / HIVE |
-| **ALIGNMENT** | CHAOTIC CREATIVE |
-| **MOTTO** | Build beyond reality. |
+### `01 // SYSTEM IDENTITY`
 
 </div>
 
-> Somewhere between code and imagination, there is another world waiting to be built.
+```text
+╔══════════════════════════════════════════════╗
+║             PLAYER IDENTIFICATION            ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  NAME       : CARLOS WHITE                   ║
+║  USERNAME   : LiBaiQiYu                      ║
+║  CLASS      : FULL-STACK DEVELOPER           ║
+║  ALIGNMENT  : CHAOTIC CREATIVE               ║
+║  DIMENSION  : DIGITAL UNIVERSE               ║
+║  STATUS     : ONLINE                         ║
+║                                              ║
+║  MAIN QUEST : BUILD THE IMPOSSIBLE           ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
-I enjoy building digital products, experimenting with visual experiences, exploring modern web technologies, and occasionally disappearing into the DOTA2 battlefield.
+I build digital experiences, experiment with unconventional interfaces, and turn random ideas into actual products.
+
+Interested in modern web technologies, creative engineering, pixel aesthetics, AI, and the endless battlefield of DOTA2.
+
+> Reality is a bug. Creativity is the exploit.
 
 ---
 
-## `02` — THE ARMORY
-
 <div align="center">
 
-### EQUIPMENT INVENTORY
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:7C3AED,100:FF1744" width="100%" />
 
-*Every tool is a weapon. Every idea is a new ability.*
+### `02 // INVENTORY CORRUPTED`
+
+`EQUIPMENT DATABASE UNLOCKED`
+
+</div>
+
+<div align="center">
 
 **[ PRIMARY WEAPONS ]**
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
 
-**[ FRONTEND SPELLS ]**
+**[ REALITY MANIPULATION ]**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind&theme=dark" />
 
-**[ BACKEND & INFRASTRUCTURE ]**
+**[ SERVER & DIMENSION CONTROL ]**
 
 <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,docker,sqlite,mysql,postgres&theme=dark" />
 
-**[ ENGINEERING TOOLS ]**
+**[ SYSTEM TOOLS ]**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark" />
 
@@ -77,157 +87,226 @@ I enjoy building digital products, experimenting with visual experiences, explor
 
 ---
 
-## `03` — DIMENSIONAL PROJECTS
-
 <div align="center">
 
-### SELECTED WORLDS
+### `03 // DIMENSIONAL BREACH`
 
-`2 ACTIVE DIMENSIONS DETECTED`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=SCANNING+AVAILABLE+DIMENSIONS...;TWO+PROJECTS+DETECTED.;ACCESSING+PROJECT+DATABASE..." />
 
 </div>
 
-### <img src="https://img.shields.io/badge/01-PIXEL%20BLOG-6366F1?style=flat-square" /> THE PIXEL UNIVERSE
+### <img src="https://img.shields.io/badge/01-PIXEL%20BLOG-FF3155?style=flat-square&labelColor=09090F" />
 
-**PIXEL BLOG — A DIGITAL WORLD OF MY OWN**
+<div align="center">
 
-A personal digital experience blending pixel aesthetics, modern web technology and creative interactions.
+# ░▒▓ PIXEL UNIVERSE ▓▒░
+
+<img src="https://img.shields.io/badge/DIMENSION-PIXEL-FF3155?style=flat-square" />
+<img src="https://img.shields.io/badge/TYPE-PERSONAL%20WEB-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/ACCESS-OPEN-00C853?style=flat-square" />
+
+</div>
+
+A personal digital universe blending pixel-inspired aesthetics, liquid glass interfaces, and modern web technology.
 
 ```text
-╔══════════════════════════════════════╗
-║  WORLD: PIXEL                        ║
-║  TYPE : DIGITAL EXPERIENCE           ║
-║  MODE : CREATIVE                     ║
-║  STATUS: EVOLVING                    ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║  PIXEL.EXE                                  ║
+║  ----------------------------------------  ║
+║  ENVIRONMENT : DIGITAL UNIVERSE             ║
+║  VISUAL      : PIXEL / LIQUID GLASS         ║
+║  EXPERIENCE  : INTERACTIVE                  ║
+║  ACCESS      : PUBLIC                       ║
+╚══════════════════════════════════════════════╝
 ```
 
-- Pixel-inspired visual identity
-- Liquid glass interface
-- Personal digital gallery
-- Weather and interactive experiences
-- Creative tools and experiments
+**FEATURES**
 
-<a href="https://github.com/LiBaiQiYu/pixel-blog"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://pixel-blog-beta.vercel.app"><img src="https://img.shields.io/badge/ENTER_PIXEL_WORLD-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+- ◈ Pixel-inspired visual identity
+- ◈ Liquid glass interface
+- ◈ Personal photo gallery
+- ◈ Weather and dynamic experiences
+- ◈ Interactive media and creative tools
+- ◈ Experimental digital playground
+
+<div align="center">
+
+<a href="https://cwa1e.top">
+<img src="https://img.shields.io/badge/ENTER_PIXEL_UNIVERSE-cwa1e.top-FF3155?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+</a>
+<a href="https://github.com/LiBaiQiYu/pixel-blog">
+<img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-### <img src="https://img.shields.io/badge/02-HIVE-E11D48?style=flat-square" /> THE BATTLEFIELD
+### <img src="https://img.shields.io/badge/02-HIVE-00E5FF?style=flat-square&labelColor=09090F" />
 
-**HIVE — DOTA2 COMMUNITY WARROOM**
+<div align="center">
 
-A dedicated 5v5 DOTA2 community match management system.
+# ░▒▓ HIVE // WARROOM ▓▒░
+
+<img src="https://img.shields.io/badge/DIMENSION-BATTLEFIELD-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/MODE-5V5-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/UNIVERSE-DOTA2-7C3AED?style=flat-square" />
+
+</div>
+
+A DOTA2 community warroom built around 5v5 matches, player profiles, team balancing, and competitive experiences.
 
 ```text
-╔══════════════════════════════════════╗
-║  WORLD: BATTLEFIELD                  ║
-║  MODE : 5 VS 5                       ║
-║  FACTION: RADIANT  /  DIRE            ║
-║  CORE : TEAM BALANCING               ║
-║  STATUS: ENGINEERING BASELINE        ║
-╚══════════════════════════════════════╝
+       ╔══════════════════════════════════╗
+       ║         HIVE WARROOM             ║
+       ╠══════════════════════════════════╣
+       ║                                  ║
+       ║     RADIANT  VS  DIRE            ║
+       ║                                  ║
+       ║       5 PLAYERS / TEAM           ║
+       ║                                  ║
+       ║  PLAYER DATA   [CONNECTED]       ║
+       ║  TEAM BALANCE  [PROCESSING]      ║
+       ║  MATCH SYSTEM  [INITIALIZING]    ║
+       ║                                  ║
+       ╚══════════════════════════════════╝
 ```
 
 **CORE ABILITIES**
 
-- ⚔️ Player profiles and Steam integration
-- 🛡️ Automated team balancing
+- ⚔️ Player profiles & Steam integration
+- ⚖️ Automated team balancing
 - 🔮 WARROOM Rating system
-- 🏆 Match registration and management
+- 🏆 Match registration & management
 - 🎮 Team composition editor
-- 📊 Match history and leaderboard planning
+- 📊 Match history & leaderboard planning
 
 **TECHNOLOGY**
 
 `Vue 3` `TypeScript` `Vite` `Hono` `Drizzle ORM` `Cloudflare Workers` `D1`
 
-<a href="https://github.com/LiBaiQiYu/hive"><img src="https://img.shields.io/badge/VIEW_HIVE-181717?style=for-the-badge&logo=github" /></a>
+<div align="center">
+
+<a href="https://hive.cwa1e.top">
+<img src="https://img.shields.io/badge/ENTER_HIVE_WARROOM-hive.cwa1e.top-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="https://github.com/LiBaiQiYu/hive">
+<img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-## `04` — RADIANT VS DIRE
-
 <div align="center">
 
-### THE ANCIENTS ARE CALLING
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF1744,50:7C3AED,100:00E5FF" width="100%" />
 
-*Two forces. One battlefield. Endless possibilities.*
+### `04 // RADIANT VS DIRE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=700&color=FF3155&center=true&vCenter=true&width=550&lines=THE+ANCIENTS+ARE+CALLING...;CHOOSE+YOUR+SIDE.;THE+BATTLE+NEVER+ENDS." />
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/✦-RADIANT-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✦-RADIANT-22C55E?style=for-the-badge" />
 
-**THE LIGHT**
+### THE LIGHT
 
-`ORDER` · `CREATION` · `ENERGY`
+`ORDER`
+
+`CREATION`
+
+`ENERGY`
+
+<img src="https://img.shields.io/badge/ANCIENT-ALIVE-16A34A?style=flat-square" />
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/✦-DIRE-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✦-DIRE-EF4444?style=for-the-badge" />
 
-**THE DARKNESS**
+### THE DARKNESS
 
-`CHAOS` · `DISTORTION` · `POWER`
+`CHAOS`
+
+`DISTORTION`
+
+`POWER`
+
+<img src="https://img.shields.io/badge/ANCIENT-ALIVE-DC2626?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
 ```text
-       ◈ THE BATTLE NEVER ENDS ◈
+       ░▒▓ THE BATTLEFIELD IS GLITCHING ▓▒░
 
        RADIANT  [████████░░]  DIRE
 
-       GG  /  WP  /  GLHF
+       [ GG ]  [ WP ]  [ GLHF ]
+
+       CONNECTION LOST...
+       RECONNECTING TO THE VOID...
 ```
 
 </div>
 
 ---
 
-## `05` — SYSTEM TELEMETRY
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:7C3AED,100:FF1744" width="100%" />
+
+### `05 // SYSTEM TELEMETRY`
+
+`LIVE DEVELOPER DATA`
+
+</div>
 
 <div align="center">
 
-### DEVELOPER STATISTICS
+<img src="https://github-readme-stats.vercel.app/api?username=LiBaiQiYu&show_icons=true&theme=transparent&hide_border=true&bg_color=09090F&title_color=FF3155&icon_color=00E5FF&text_color=C4C4D4&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=LiBaiQiYu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&include_all_commits=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBaiQiYu&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBaiQiYu&layout=compact&theme=transparent&hide_border=true&bg_color=09090F&title_color=00E5FF&text_color=C4C4D4&langs_count=8" width="49%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=LiBaiQiYu&theme=tokyonight&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" width="80%" />
+<img src="https://streak-stats.demolab.com?user=LiBaiQiYu&theme=dark&hide_border=true&background=09090F&ring=FF3155&fire=00E5FF&currStreakLabel=FF3155&sideLabels=C4C4D4&dates=777788" width="80%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LiBaiQiYu&bg_color=050816&color=67E8F9&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LiBaiQiYu&bg_color=09090F&color=00E5FF&line=FF3155&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## `06` — GLITCH ZONE
-
 <div align="center">
+
+### `06 // REALITY DISTORTION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1600&pause=350&color=FF3155&center=true&vCenter=true&width=650&lines=WARNING%3A+REALITY+BREACH+DETECTED;01000111+01001100+01001001+01010100+01000011+;PIXELS+ARE+ESCAPING+THE+SIMULATION;ERROR_404%3A+LIMITS_NOT_FOUND;REWRITE+THE+WORLD." />
 
 ```text
-01010100 01001000 01000101 00100000
-01010110 01001111 01001001 01000100
-
-[ REALITY BREACH DETECTED ]
-
-PIXELS ARE FALLING OUT OF THE SKY.
-THE SYSTEM IS REWRITING ITSELF.
-
-ERROR_404: LIMITS_NOT_FOUND
+       ╔════════════════════════════════════╗
+       ║                                    ║
+       ║   [!] SYSTEM CORRUPTION            ║
+       ║                                    ║
+       ║   REALITY.EXE      ████████ 99%     ║
+       ║   PIXEL.EXE        ████████ 99%     ║
+       ║   CREATIVITY.EXE   RUNNING          ║
+       ║                                    ║
+       ║   ERROR_404: LIMITS_NOT_FOUND      ║
+       ║                                    ║
+       ╚════════════════════════════════════╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=F472B6&center=true&vCenter=true&width=500&lines=BREAK+THE+BOUNDARIES;REWRITE+THE+RULES;CREATE+YOUR+OWN+WORLD;GG+WP+%2F%2F+SEE+YOU+NEXT+MATCH" />
 
 </div>
 
@@ -235,14 +314,14 @@ ERROR_404: LIMITS_NOT_FOUND
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&section=footer&text=END%20OF%20TRANSMISSION&fontSize=28&fontColor=FFFFFF&fontAlignY=42&desc=THINK%20%2F%2F%20BUILD%20%2F%2F%20EXPLORE%20%2F%2F%20REPEAT&descSize=13&descColor=67E8F9&descAlignY=72&color=0:020617,50:172554,100:312E81" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=31&fontColor=FFFFFF&desc=THINK%20%2F%2F%20BUILD%20%2F%2F%20GLITCH%20%2F%2F%20REPEAT&descSize=13&descColor=FF3155&color=0:030308,40:18102D,70:111A38,100:030308&animation=twinkling" width="100%" />
 
-`[ CONNECTION ESTABLISHED ]`
+**THANKS FOR ENTERING THE VOID.**
 
-**THANKS FOR ENTERING MY WORLD.**
+`[ CONNECTION ESTABLISHED ]` ` [ SEE YOU IN ANOTHER DIMENSION ]`
 
-<sub>Designed in the VOID · Powered by imagination · Built with code.</sub>
+<img src="https://komarev.com/ghpvc/?username=LiBaiQiYu&style=for-the-badge&color=7C3AED&label=VISITORS" />
 
-<img src="https://komarev.com/ghpvc/?username=LiBaiQiYu&style=flat-square&color=6366F1&label=VISITORS" />
+<sub>POWERED BY CODE · PIXELS · CHAOS</sub>
 
 </div>
