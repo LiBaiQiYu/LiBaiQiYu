@@ -1,0 +1,65 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    # 每天 UTC 00:00 更新（北京时间 08:00）
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      # 深色主题：Stats
+      - name: Generate dark stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 浅色主题：Stats
+      - name: Generate light stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&ring_color=0969da
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 深色主题：Top Languages
+      - name: Generate dark top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9
+          path: profile/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 浅色主题：Top Languages
+      - name: Generate light top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f
+          path: profile/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated SVG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            echo "No SVG changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub stats cards"
+          git push
