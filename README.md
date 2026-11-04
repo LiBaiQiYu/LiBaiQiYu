@@ -66,15 +66,17 @@ A DOTA2 community 5v5 match management platform, focused on team balancing and p
 
 ### GitHub
 
-<div align="center">
+<!-- GitHub Stats: auto switch with GitHub theme -->
+<p align="center">
+  <img src="./profile/stats-light.svg#gh-light-mode-only" width="49%" alt="GitHub Stats">
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" width="49%" alt="GitHub Stats">
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiBaiQiYu&theme=github_dark" width="100%" />
+<p align="center">
+  <img src="./profile/langs-light.svg#gh-light-mode-only" width="49%" alt="Top Languages">
+  <img src="./profile/langs-dark.svg#gh-dark-mode-only" width="49%" alt="Top Languages">
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiBaiQiYu&theme=github_dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiBaiQiYu&theme=github_dark" width="49%" />
-
-</div>
 
 ---
 
