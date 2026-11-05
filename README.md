@@ -54,6 +54,19 @@ A DOTA2 community 5v5 match management platform, focused on team balancing and p
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**03 / TRUESIGHT**
+
+A gaming-focused project inspired by DOTA2's True Sight Gem, bringing a distinctive visual identity and digital experience to life.
+
+`TypeScript` `Web` `Creative Design`
+
+[GitHub Repository ↗](https://github.com/LiBaiQiYu/TrueSight)
+
+</td>
+</tr>
 </table>
 
 ### Tech Stack
