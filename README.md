@@ -63,6 +63,8 @@ A gaming-focused project inspired by DOTA2's True Sight Gem, bringing a distinct
 
 `TypeScript` `Web` `Creative Design`
 
+[Visit Website ↗](https://truesight.cwa1e.top)
+
 [GitHub Repository ↗](https://github.com/LiBaiQiYu/TrueSight)
 
 </td>
